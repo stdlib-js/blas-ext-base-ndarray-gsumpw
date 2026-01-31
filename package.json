@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-ext-base-ndarray-gsumpw",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Compute the sum of all elements in a one-dimensional ndarray using pairwise summation.",
   "license": "Apache-2.0",
   "author": {
@@ -87,7 +87,6 @@
     "summation",
     "ndarray"
   ],
-  "__stdlib__": {},
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"
